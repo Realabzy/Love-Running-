@@ -9,6 +9,9 @@
 
 h1 {
     font-family: 'oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
 }
 
 
@@ -30,6 +33,10 @@ header {
     width: 100%;
     box-shadow: 0 2px #3a3a3a;
 
+}
+
+header a {
+    text-decoration: none;
 }
 
 /*main*/
